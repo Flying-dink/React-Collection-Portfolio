@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Collection-Porfolio/static/css/main.7b8267f1.chunk.css",
+    "main.js": "/React-Collection-Porfolio/static/js/main.6467c70a.chunk.js",
+    "main.js.map": "/React-Collection-Porfolio/static/js/main.6467c70a.chunk.js.map",
+    "runtime-main.js": "/React-Collection-Porfolio/static/js/runtime-main.f62a6cfe.js",
+    "runtime-main.js.map": "/React-Collection-Porfolio/static/js/runtime-main.f62a6cfe.js.map",
+    "static/js/2.e07392a9.chunk.js": "/React-Collection-Porfolio/static/js/2.e07392a9.chunk.js",
+    "static/js/2.e07392a9.chunk.js.map": "/React-Collection-Porfolio/static/js/2.e07392a9.chunk.js.map",
+    "static/js/3.a4fb2703.chunk.js": "/React-Collection-Porfolio/static/js/3.a4fb2703.chunk.js",
+    "static/js/3.a4fb2703.chunk.js.map": "/React-Collection-Porfolio/static/js/3.a4fb2703.chunk.js.map",
+    "index.html": "/React-Collection-Porfolio/index.html",
+    "static/css/main.7b8267f1.chunk.css.map": "/React-Collection-Porfolio/static/css/main.7b8267f1.chunk.css.map",
+    "static/js/2.e07392a9.chunk.js.LICENSE.txt": "/React-Collection-Porfolio/static/js/2.e07392a9.chunk.js.LICENSE.txt",
+    "static/media/Resume.e462c757.png": "/React-Collection-Porfolio/static/media/Resume.e462c757.png",
+    "static/media/email.4bbf7ae4.png": "/React-Collection-Porfolio/static/media/email.4bbf7ae4.png",
+    "static/media/employeetracker.b3e91761.png": "/React-Collection-Porfolio/static/media/employeetracker.b3e91761.png",
+    "static/media/github.12aecd2f.png": "/React-Collection-Porfolio/static/media/github.12aecd2f.png",
+    "static/media/image0.720c27bc.jpg": "/React-Collection-Porfolio/static/media/image0.720c27bc.jpg",
+    "static/media/linkedin.4e0e5fb9.png": "/React-Collection-Porfolio/static/media/linkedin.4e0e5fb9.png",
+    "static/media/lips-app.efb4b2a5.png": "/React-Collection-Porfolio/static/media/lips-app.efb4b2a5.png",
+    "static/media/myadventure.73198606.png": "/React-Collection-Porfolio/static/media/myadventure.73198606.png",
+    "static/media/notetaker.6e264845.png": "/React-Collection-Porfolio/static/media/notetaker.6e264845.png",
+    "static/media/readme.437d4b1c.png": "/React-Collection-Porfolio/static/media/readme.437d4b1c.png",
+    "static/media/teamprofile.bd65306d.png": "/React-Collection-Porfolio/static/media/teamprofile.bd65306d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f62a6cfe.js",
+    "static/js/2.e07392a9.chunk.js",
+    "static/css/main.7b8267f1.chunk.css",
+    "static/js/main.6467c70a.chunk.js"
+  ]
+}
